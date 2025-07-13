@@ -1,4 +1,4 @@
-# 🚀 FastAPI + Docker + Terraform Demo
+# 🚀 FastAPI + Docker + Terraform App
 
 A minimal, local-first demo project showcasing the integration of **FastAPI**, **Docker**, **Docker Compose**, and **Terraform** to simulate infrastructure provisioning and deployment.
 
